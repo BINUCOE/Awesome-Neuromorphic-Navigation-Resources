@@ -141,3 +141,57 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing 👋.
 
 
 ## Software Resources
+### Algorithm Programming Tools
+|   Software   | Year |    Programming Language     |                                                 Paper                                                  |                             Open Resource                             |
+|:------------:|:----:|:---------------------------:|:------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------:|
+|    SNN-TB    | 2017 |           Python            |                          [Paper](https://doi.org/10.3389%2Ffnins.2017.00682)                           | [GitHub](https://github.com/NeuromorphicProcessorProject/snn_toolbox) |
+|   BindsNET   | 2018 |           Python            |                 [Paper](https://www.frontiersin.org/articles/10.3389/fninf.2018.00089)                 |            [GitHub](https://github.com/BindsNET/bindsnet)             |
+|  SpykeTorch  | 2019 |           Python            |                          [Paper](https://doi.org/10.3389%2Ffnins.2019.00625)                           |         [GitHub](https://github.com/miladmozafari/SpykeTorch)         |
+|    Sinabs    | 2019 |           Python            |                                                   -                                                    |             [GitHub](https://github.com/synsense/sinabs)              |
+|    cuSNN     | 2020 |             C++             |                         [Paper](https://ieeexplore.ieee.org/document/8660483)                          |              [GitHub](https://github.com/tudelft/cuSNN)               |
+|    Norse     | 2021 |           Python            |                                                   -                                                    |               [GitHub](https://github.com/norse/norse)                |
+|    EvtSNN    | 2022 |             C++             |   [Paper](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.944262/full)   |                                   -                                   |
+|   SNNtorch   | 2023 |           Python            |                         [Paper](https://ieeexplore.ieee.org/document/10242251)                         |           [GitHub](https://github.com/jeshraghian/snntorch)           |
+| SpikingJelly | 2023 |           Python            |                      [Paper](https://www.science.org/doi/10.1126/sciadv.adi1480)                       |        [GitHub](https://github.com/fangwei123456/spikingjelly)        |
+|    SPAIC     | 2024 |           Python            |                         [Paper](https://ieeexplore.ieee.org/document/10384520)                         |            [GitHub](https://github.com/zju-bmi-lab/SPAIC)             |
+
+
+### Brain Network Simulators
+|   Software   | Year |    Programming Language     |                                                 Paper                                                  |                             Open Resource                             |
+|:------------:|:----:|:---------------------------:|:------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------:|
+|   GENESIS    | 1988 |     Customized Language     | [Paper](https://proceedings.neurips.cc/paper/1988/hash/4c5bde74a8f110656874902f07378009-Abstract.html) |                  [Website](http://genesis-sim.org/)                   |
+|    Brian     | 2008 |           Python            | [Paper](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/neuro.11.005.2008/full) |             [GitHub](https://github.com/brian-team/brian)             |
+|     PyNN     | 2008 |           Python            | [Paper](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/neuro.11.011.2008/full) |             [GitHub](https://github.com/brian-team/brian)             |
+|    Brian2    | 2014 |           Python            | [Paper](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2014.00006/full)  |            [GitHub](https://github.com/brian-team/brian2)             |
+|    Nengo     | 2014 |           Python            |                          [Paper](https://doi.org/10.3389%2Ffninf.2013.00048)                           |               [GitHub](https://github.com/nengo/nengo)                |
+|   CARLsim    | 2015 |             C++             |                         [Paper](https://ieeexplore.ieee.org/document/9892644)                          |            [GitHub](https://github.com/UCI-CARL/CARLsim6)             |
+|     NEST     | 2019 |           Python            |                 [Paper](https://link.springer.com/rwe/10.1007/978-1-4614-7320-6_258-6)                 |           [GitHub](https://github.com/nest/nest-simulator)            |
+|    NEURON    | 2022 | Customized Language, Python |                  [Paper](https://link.springer.com/rwe/10.1007/978-1-0716-1006-0_795)                  |            [Website](https://nrn.readthedocs.io/en/9.0.1/)            |
+|   BrainCog   | 2023 |           Python            |                         [Paper](https://doi.org/10.1016/j.patter.2023.100789)                          |           [GitHub](https://github.com/BrainCog-X/Brain-Cog)           |
+|   BrainPy    | 2023 |           Python            |                           [Paper](https://elifesciences.org/articles/86365)                            |          [GitHub](https://elifesciences.org/articles/86365)           |
+
+
+### Scene Simulators
+|    Software  | Year |    Programming Language     |                                                 Paper                                                  |                             Open Resource                             |
+|:------------:|:----:|:---------------------------:|:------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------:|
+|    Gazebo    | 2004 |         C++, Python         |                         [Paper](https://ieeexplore.ieee.org/document/1389727)                          |                [GitHub](https://github.com/gazebosim)                 |
+| DeepMind Lab | 2016 |           Python            |                               [Paper](https://arxiv.org/abs/1612.03801)                                |           [GitHub](https://github.com/google-deepmind/lab)            |
+|   AI2-THOR   | 2017 |         C#, Python          |                               [Paper](https://arxiv.org/abs/1712.05474)                                |             [GitHub](https://github.com/allenai/ai2thor)              |
+|    CARLA     | 2017 |         C++, Python         |                     [Paper](https://proceedings.mlr.press/v78/dosovitskiy17a.html)                     |          [GitHub](https://github.com/carla-simulator/carla)           |
+|    MINOS     | 2017 |           Python            |                               [Paper](https://arxiv.org/abs/1712.03931)                                |                                   -                                   |
+|   House3D    | 2018 |         C++, Python         |                               [Paper](https://arxiv.org/abs/1801.02209)                                |         [GitHub](https://github.com/facebookresearch/House3D)         |
+|   Habitat    | 2019 |           Python            |                         [Paper](https://ieeexplore.ieee.org/document/9010745/)                         |       [GitHub](https://github.com/facebookresearch/habitat-lab)       |
+|   RoboTHOR   | 2020 |           Python            |                         [Paper](https://ieeexplore.ieee.org/document/9157346/)                         |        [GitHub](https://github.com/allenai/robothor-challenge)        |
+|    LGSVL     | 2020 |             C#              |                     [Paper](https://ieeexplore.ieee.org/abstract/document/9294422)                     |             [GitHub](https://github.com/lgsvl/simulator/)             |
+|    AirSim    | 2020 |           Python            |                       [Paper](https://proceedings.mlr.press/v123/madaan20a.html)                       |    [GitHub](https://github.com/microsoft/AirSim-Drone-Racing-Lab)     |
+
+
+### Others
+|   Software   | Year |    Programming Language     |                                                 Paper                                                  |                             Open Resource                             |
+|:------------:|:----:|:---------------------------:|:------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------:|
+|     NRP      | 2017 |           Python            |                          [Paper](https://doi.org/10.3389%2Ffnbot.2017.00002)                           |            [Website](https://neurorobotics.net/index.html)            |
+|     NIR      | 2024 |           Python            |                      [Paper](https://www.nature.com/articles/s41467-024-52259-9)                       |             [GitHub](https://github.com/neuromorphs/nir)              |
+| OpenRatSLAM  | 2013 |     MATLAB, C++, Python     |                           [Paper](https://doi.org/10.1007/s10514-012-9317-9)                           | [Website](https://researchdata.edu.au/openratslam-source-code/448389) |
+| SpikeCoding  | 2022 |       MATLAB, Python        |                         [Paper](https://ieeexplore.ieee.org/document/9845664)                          |           [GitHub](https://github.com/JuSquare/SpikeCoding)           |
+|  CARLsim++   | 2025 |         C++, Python         |                           [Paper](https://doi.org/10.1088/2634-4386/adad0f)                            |            [GitHub](https://github.com/UCI-CARL/CARLsimPP)            |
+
