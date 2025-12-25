@@ -1,6 +1,10 @@
-# Awesome-Neuromorphic-Navigation-Resources
-A curated list of resources for neuromorphic navigation, including datasets, hardware platforms, and software tools.
+# Awesome-Neuromorphic-Navigation-Resources [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+This is a repository of **Neuromorphic Navigation** survey from **Southeast University, Nanjing, China**. 
+
+It aims to provide a curated collection of resources for researchers and practitioners interested in neuromorphic navigation, including datasets, hardware platforms, and software tools.
+
+If you find this repository helpful, please consider Stars ⭐ or Sharing 👋.
 
 ## Data Resources
 
