@@ -187,11 +187,12 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing 👋.
 
 
 ### Others
-|   Software   | Year |    Programming Language     |                                                 Paper                                                  |                             Open Resource                             |
-|:------------:|:----:|:---------------------------:|:------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------:|
-|     NRP      | 2017 |           Python            |                          [Paper](https://doi.org/10.3389%2Ffnbot.2017.00002)                           |            [Website](https://neurorobotics.net/index.html)            |
-|     NIR      | 2024 |           Python            |                      [Paper](https://www.nature.com/articles/s41467-024-52259-9)                       |             [GitHub](https://github.com/neuromorphs/nir)              |
-| OpenRatSLAM  | 2013 |     MATLAB, C++, Python     |                           [Paper](https://doi.org/10.1007/s10514-012-9317-9)                           | [Website](https://researchdata.edu.au/openratslam-source-code/448389) |
-| SpikeCoding  | 2022 |       MATLAB, Python        |                         [Paper](https://ieeexplore.ieee.org/document/9845664)                          |           [GitHub](https://github.com/JuSquare/SpikeCoding)           |
-|  CARLsim++   | 2025 |         C++, Python         |                           [Paper](https://doi.org/10.1088/2634-4386/adad0f)                            |            [GitHub](https://github.com/UCI-CARL/CARLsimPP)            |
+|  Software   | Year | Programming Language |                            Paper                            |                             Open Resource                             |
+|:-----------:|:----:|:--------------------:|:-----------------------------------------------------------:|:---------------------------------------------------------------------:|
+|     NRP     | 2017 |        Python        |     [Paper](https://doi.org/10.3389%2Ffnbot.2017.00002)     |            [Website](https://neurorobotics.net/index.html)            |
+|     NIR     | 2024 |        Python        | [Paper](https://www.nature.com/articles/s41467-024-52259-9) |             [GitHub](https://github.com/neuromorphs/nir)              |
+|    Tonic    | 2021 |        Python        |                              -                              |            [GitHub](https://github.com/neuromorphs/tonic)             |
+| OpenRatSLAM | 2013 | MATLAB, C++, Python  |     [Paper](https://doi.org/10.1007/s10514-012-9317-9)      | [Website](https://researchdata.edu.au/openratslam-source-code/448389) |
+| SpikeCoding | 2022 |    MATLAB, Python    |    [Paper](https://ieeexplore.ieee.org/document/9845664)    |           [GitHub](https://github.com/JuSquare/SpikeCoding)           |
+|  CARLsim++  | 2025 |     C++, Python      |      [Paper](https://doi.org/10.1088/2634-4386/adad0f)      |            [GitHub](https://github.com/UCI-CARL/CARLsimPP)            |
 
