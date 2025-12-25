@@ -1,1 +1,42 @@
 # Awesome-Neuromorphic-Navigation-Resources
+A curated list of resources for neuromorphic navigation, including datasets, hardware platforms, and software tools.
+
+
+## Data Resources
+
+|      Dataset       |     Pub.     | Paper                                                                                                                                                                                  |                             Open Resource                              |
+|:------------------:|:------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------:|
+|     DAVIS240C      |  IJRR-2017   | [The event-camera dataset and simulator: Event-based data for pose estimation, visual odometry, and SLAM](https://journals.sagepub.com/doi/10.1177/0278364917691115)                   |           [Website](https://rpg.ifi.uzh.ch/davis_data.html)            |
+|       MVSEC        |   RAL-2018   | [The Multivehicle Stereo Event Camera Dataset: An Event Camera Dataset for 3D Perception](https://ieeexplore.ieee.org/document/8288670)                                                |          [Website](https://daniilidis-group.github.io/mvsec/)          |
+|        DSEC        |   RAL-2021   | [DSEC: A Stereo Event Camera Dataset for Driving Scenarios](https://ieeexplore.ieee.org/document/9387069)                                                                              |               [GitHub](https://github.com/uzh-rpg/DSEC)                |
+|       M2DGR        |   RAL-2022   | [M2DGR: A Multi-Sensor and Multi-Scenario SLAM Dataset for Ground Robots](https://ieeexplore.ieee.org/document/9664374)                                                                |             [GitHub](https://github.com/SJTU-ViSYS/M2DGR)              |
+|      UZH-FPV       |  ICRA-2019   | [Are We Ready for Autonomous Drone Racing? The UZH-FPV Drone Racing Dataset](https://ieeexplore.ieee.org/document/8793887)                                                             |                   [Website](https://fpv.ifi.uzh.ch/)                   |
+|       D-eDVS       |  ICRA-2014   | [Event-based 3D SLAM with a depth-augmented dynamic vision sensor](https://ieeexplore.ieee.org/document/6906882)                                                                       |                                   -                                    |
+|       DDD17        |  ICML-2017   | [DDD17: End-To-End DAVIS Driving Dataset](https://arxiv.org/abs/1711.01458)                                                                                                            |                [Website](sensors.ini.uzh.ch/databases)                 |
+|       DDD20        |  ITSC-2020   | [DDD20 End-to-End Event Camera Driving Dataset: Fusing Frames and Events with Deep Learning for Improved Steering Prediction](https://ieeexplore.ieee.org/document/9294515)            |          [Website](http://sensors.ini.uzh.ch/databases.html)           |
+|       VECtor       |   RAL-2022   | [VECtor: A Versatile Event-Centric Benchmark for Multi-Sensor SLAM](https://ieeexplore.ieee.org/document/9809788)                                                                      |      [Website](https://star-datasets.github.io/vector/download/)       |
+|      ViViD++       |   RAL-2022   | [ViViD++ : Vision for Visibility Dataset](https://ieeexplore.ieee.org/document/9760091)                                                                                                |            [Website](https://visibilitydataset.github.io/)             |
+|      TUM-VIE       |  IROS-2021   | [TUM-VIE: The TUM Stereo Visual-Inertial Event Dataset](https://ieeexplore.ieee.org/document/9636728)                                                                                  |      [Website](https://service.tib.eu/ldmservice/dataset/tum-vie)      |
+| Brisbane-Event-VPR |   RAL-2020   | [Event-Based Visual Place Recognition With Ensembles of Temporal Windows](https://ieeexplore.ieee.org/document/9201344)                                                                |     [GitHub](https://github.com/Tobias-Fischer/ensemble-event-vpr)     |
+|      GRIFFIN       |   RAL-2021   | [The GRIFFIN Perception Dataset: Bridging the Gap Between Flapping-Wing Flight and Robotic Perception](https://ieeexplore.ieee.org/document/9345513)                                   |             [Website](https://zenodo.org/records/11404043)             |
+|      AGRI-EBV      |  ICRA-2021   | [An Event-based Vision Dataset for Visual Navigation Tasks in Agricultural Environments](https://ieeexplore.ieee.org/document/9561741)                                                 |    [Website](https://ieee-dataport.org/open-access/agri-ebv-autumn)    |
+|   FusionPortable   |  IROS-2022   | [FusionPortable: A Multi-Sensor Campus-Scene Dataset for Evaluation of Localization and Mapping Accuracy on Diverse Platforms](https://ieeexplore.ieee.org/abstract/document/9982119)  |  [Website](https://fusionportable.github.io/dataset/fusionportable/)   |
+|        M3ED        |  CVPRW-2023  | [M3ED: Multi-Robot, Multi-Sensor, Multi-Environment Event Dataset](https://ieeexplore.ieee.org/document/10209006)                                                                      |           [GitHub](https://github.com/daniilidis-group/m3ed)           |
+|  Hadviger et al.   |  ECMR-2023   | [Stereo Visual Localization Dataset Featuring Event Cameras](https://ieeexplore.ieee.org/document/10256407)                                                                            |   [Website](http://www.bitbucket.com/unizg-fer-lamor/event-dataset)    |
+|   PKU-DAVIS-SOD    |  TPAMI-2023  | [SODFormer: Streaming Object Detection With Transformer Using Events and Frames](https://ieeexplore.ieee.org/document/10195232)                                                        |  [Website](https://www.pkuml.org/research/pku-davis-sod-dataset.html)  |
+|        ECMD        |   TIV-2024   | [ECMD: An Event-Centric Multisensory Driving Dataset for SLAM](https://ieeexplore.ieee.org/abstract/document/10342726)                                                                 |              [GitHub](https://github.com/arclab-hku/ecmd)              |
+|      MA-VIED       |  TITS-2024   | [MA-VIED: A Multisensor Automotive Visual Inertial Event Dataset](https://ieeexplore.ieee.org/abstract/document/10254473)                                                              |    [GitHub](https://github.com/isarlab-department-engineering/MA-VIED)    |
+|        CEAR        |   RAL-2024   | [CEAR: Comprehensive Event Camera Dataset for Rapid Perception of Agile Quadruped Robots](https://ieeexplore.ieee.org/document/10592643)                                               |               [GitHub](https://github.com/DARoSLab/cear)               |
+|       NSAVP        |  IJRR-2025   | [Dataset and Benchmark: Novel Sensors for Autonomous Vehicle Perception](https://doi.org/10.1177/02783649241273554)                                                                    |             [Website](https://umautobots.github.io/nsavp)              |
+|        M2P2        |  ArXiv-2025  | [M2P2: A Multi-Modal Passive Perception Dataset for Off-Road Mobility in Extreme Low-Light Conditions](https://arxiv.org/abs/2410.01105)                                               |           [Website](https://cs.gmu.edu/~xiao/Research/M2P2/)           |
+|       M3DSS        |  ICRA-2025   | [M3DSS: A Multi-Platform, Multi-Sensor, and Multi-Scenario Dataset for SLAM System](https://ieeexplore.ieee.org/document/11128631)                                                     |        [GitHub](https://github.com/NEUFS-MA/M3DSS)         |
+|   NYC-Event-VPR    |  ICRA-2025   | [NYC-Event-VPR: A Large-Scale High-Resolution Event-Based Visual Place Recognition Dataset in Dense Urban Environments](https://ieeexplore.ieee.org/document/11128789)                 |            [GitHub](https://github.com/ai4ce/NYC-Event-VPR)            |
+|  FusionPortableV2  |  IJRR-2025   | [FusionPortableV2: A unified multi-sensor dataset for generalized SLAM across diverse platforms and scalable environments](https://journals.sagepub.com/doi/10.1177/02783649241303525) | [Website](https://fusionportable.github.io/dataset/fusionportable_v2/) |
+
+
+
+## Hardware Resources
+
+
+
+## Software Resources
