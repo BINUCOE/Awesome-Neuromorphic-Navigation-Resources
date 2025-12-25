@@ -38,6 +38,8 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing 👋.
 |   NYC-Event-VPR    |  ICRA-2025   | [NYC-Event-VPR: A Large-Scale High-Resolution Event-Based Visual Place Recognition Dataset in Dense Urban Environments](https://ieeexplore.ieee.org/document/11128789)                 |            [GitHub](https://github.com/ai4ce/NYC-Event-VPR)            |
 |  FusionPortableV2  |  IJRR-2025   | [FusionPortableV2: A unified multi-sensor dataset for generalized SLAM across diverse platforms and scalable environments](https://journals.sagepub.com/doi/10.1177/02783649241303525) | [Website](https://fusionportable.github.io/dataset/fusionportable_v2/) |
 
+>- ITSC: International Conference on Intelligent Transportation Systems
+>- ECMR: European Conference on Mobile Robots
 
 ### Event Simulators and Simulated Datasets
 #### Event Simulators
@@ -58,6 +60,11 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing 👋.
 |       V2CE        |           ICRA-2024            | [V2CE: Video to Continuous Events Simulator](https://ieeexplore.ieee.org/document/10609864)                                                                   | [GitHub](https://github.com/ucsd-hdsi-dvs/V2CE-Toolbox) |
 |      EREBUS       |           ArXiv-2025           | [EREBUS: End-to-end Robust Event Based Underwater Simulation](https://arxiv.org/abs/2511.01381)                                                               |        [GitHub](https://github.com/apalkk/EBUS)         |
 
+>- CoRL: Conference on Robot Learning
+>- SIMPAR:  IEEE International Conference on Simulation, Modeling, and Programming for Autonomous Robots
+>- ICIP: IEEE International Conference on Image Processing
+>- SSCI: IEEE Symposium Series on Computational Intelligence
+>- ICCP: IEEE International Conference on Computational Photography
 
 #### Representative Work Using Simulated Datasets
 - [TIP-2022] [Asynchronous Spatio-Temporal Memory Network for Continuous Event-Based Object Detection](https://ieeexplore.ieee.org/document/9749022)
