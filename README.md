@@ -6,6 +6,27 @@ It aims to provide a curated collection of resources for researchers and practit
 
 If you find this repository helpful, please consider Stars ⭐ or Sharing 👋.
 
+
+- [Data Resources](#data-resources)
+  - [Real-World Datasets](#real-world-datasets)
+  - [Event Simulators and Simulated Datasets](#event-simulators-and-simulated-datasets)
+    - [Event Simulators](#event-simulators)
+    - [Representative Work Using Simulated Datasets](#representative-work-using-simulated-datasets)
+- [Hardware Resources](#hardware-resources)
+  - [Neuromorphic Sensors](#neuromorphic-sensors)
+    - [Vision Sensors](#vision-sensors)
+    - [Auditory Sensors](#auditory-sensors)
+    - [Tactile Sensors](#tactile-sensors)
+    - [Olfactory Sensors](#olfactory-sensors)
+    - [Wireless Sensors](#wireless-sensors)
+  - [Neuromorphic Processors](#neuromorphic-processors)
+- [Software Resources](#software-resources)
+  - [Algorithm Programming Tools](#algorithm-programming-tools)
+  - [Brain Network Simulators](#brain-network-simulators)
+  - [Scene Simulators](#scene-simulators)
+  - [Others](#others)
+
+
 ## Data Resources
 
 ### Real-World Datasets
@@ -164,18 +185,18 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing 👋.
 
 
 ### Brain Network Simulators
-|   Software   | Year |    Programming Language     |                                                 Paper                                                  |                             Open Resource                             |
-|:------------:|:----:|:---------------------------:|:------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------:|
-|   GENESIS    | 1988 |     Customized Language     | [Paper](https://proceedings.neurips.cc/paper/1988/hash/4c5bde74a8f110656874902f07378009-Abstract.html) |                  [Website](http://genesis-sim.org/)                   |
-|    Brian     | 2008 |           Python            | [Paper](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/neuro.11.005.2008/full) |             [GitHub](https://github.com/brian-team/brian)             |
-|     PyNN     | 2008 |           Python            | [Paper](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/neuro.11.011.2008/full) |             [GitHub](https://github.com/brian-team/brian)             |
-|    Brian2    | 2014 |           Python            | [Paper](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2014.00006/full)  |            [GitHub](https://github.com/brian-team/brian2)             |
-|    Nengo     | 2014 |           Python            |                          [Paper](https://doi.org/10.3389%2Ffninf.2013.00048)                           |               [GitHub](https://github.com/nengo/nengo)                |
-|   CARLsim    | 2015 |             C++             |                         [Paper](https://ieeexplore.ieee.org/document/9892644)                          |            [GitHub](https://github.com/UCI-CARL/CARLsim6)             |
-|     NEST     | 2019 |           Python            |                 [Paper](https://link.springer.com/rwe/10.1007/978-1-4614-7320-6_258-6)                 |           [GitHub](https://github.com/nest/nest-simulator)            |
-|    NEURON    | 2022 | Customized Language, Python |                  [Paper](https://link.springer.com/rwe/10.1007/978-1-0716-1006-0_795)                  |            [Website](https://nrn.readthedocs.io/en/9.0.1/)            |
-|   BrainCog   | 2023 |           Python            |                         [Paper](https://doi.org/10.1016/j.patter.2023.100789)                          |           [GitHub](https://github.com/BrainCog-X/Brain-Cog)           |
-|   BrainPy    | 2023 |           Python            |                           [Paper](https://elifesciences.org/articles/86365)                            |          [GitHub](https://elifesciences.org/articles/86365)           |
+| Software | Year |    Programming Language     |                                                 Paper                                                  |                   Open Resource                    |
+|:--------:|:----:|:---------------------------:|:------------------------------------------------------------------------------------------------------:|:--------------------------------------------------:|
+| GENESIS  | 1988 |     Customized Language     | [Paper](https://proceedings.neurips.cc/paper/1988/hash/4c5bde74a8f110656874902f07378009-Abstract.html) |         [Website](http://genesis-sim.org/)         |
+|  Brian   | 2008 |           Python            | [Paper](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/neuro.11.005.2008/full) |   [GitHub](https://github.com/brian-team/brian)    |
+|   PyNN   | 2008 |           Python            | [Paper](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/neuro.11.011.2008/full) |  [GitHub](https://github.com/NeuralEnsemble/PyNN)  |
+|  Brian2  | 2014 |           Python            | [Paper](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2014.00006/full)  |   [GitHub](https://github.com/brian-team/brian2)   |
+|  Nengo   | 2014 |           Python            |                          [Paper](https://doi.org/10.3389%2Ffninf.2013.00048)                           |      [GitHub](https://github.com/nengo/nengo)      |
+| CARLsim  | 2015 |             C++             |                         [Paper](https://ieeexplore.ieee.org/document/9892644)                          |   [GitHub](https://github.com/UCI-CARL/CARLsim6)   |
+|   NEST   | 2019 |           Python            |                 [Paper](https://link.springer.com/rwe/10.1007/978-1-4614-7320-6_258-6)                 |  [GitHub](https://github.com/nest/nest-simulator)  |
+|  NEURON  | 2022 | Customized Language, Python |                  [Paper](https://link.springer.com/rwe/10.1007/978-1-0716-1006-0_795)                  |  [Website](https://nrn.readthedocs.io/en/9.0.1/)   |
+| BrainCog | 2023 |           Python            |                         [Paper](https://doi.org/10.1016/j.patter.2023.100789)                          | [GitHub](https://github.com/BrainCog-X/Brain-Cog)  |
+| BrainPy  | 2023 |           Python            |                           [Paper](https://elifesciences.org/articles/86365)                            | [GitHub](https://elifesciences.org/articles/86365) |
 
 
 ### Scene Simulators
