@@ -242,3 +242,10 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing 👋.
 | SpikeCoding | 2022 |    MATLAB, Python    | [A toolbox for neuromorphic perception in robotics](https://ieeexplore.ieee.org/document/9845664)                                                        |           [GitHub](https://github.com/JuSquare/SpikeCoding)           |
 |  CARLsim++  | 2025 |     C++, Python      | [An integrated toolbox for creating neuromorphic edge applications](https://doi.org/10.1088/2634-4386/adad0f)                                            |            [GitHub](https://github.com/UCI-CARL/CARLsimPP)            |
 
+
+## Open Research and Development Communities
+- Open Neuromorphic: https://open-neuromorphic.org/
+> Open Neuromorphic is a global community dedicated to advancing education, research, and open-source collaboration in brain-inspired AI and neuromorphic computing.
+
+- Intel Neuromorphic Research Community : https://www.intel.com/content/www/us/en/research/neuromorphic-community.html
+> The Intel Neuromorphic Research Community (Intel NRC) is an ecosystem of academic groups, government labs, research institutions, and companies around the world working with Intel to further neuromorphic computing and develop innovative AI applications.
