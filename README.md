@@ -1,6 +1,6 @@
 # Awesome-Neuromorphic-Navigation-Resources [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-![Neuromorphic Navigation](./image/header.svg)
+![Neuromorphic Navigation](./image/header.png)
 
 This is a repository of **Neuromorphic Navigation** survey from **Southeast University, Nanjing, China**. 
 
