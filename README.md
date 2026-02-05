@@ -255,3 +255,12 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing 👋.
 - NeuroPAC: https://www.neuropac.info/
 > NeuroPAC was launched in 2021 as an NSF-supported effort under the AccelNet (Accelerating Research through International Network-to-Network Collaborations) program led by the University of Maryland and Johns Hopkins University. Its goal is to network neuromorphic engineers with computational neuroscientists, roboticists, and computational theory and perception researchers to advance the foundations of  Neuromorphic Intelligence.
 
+- Neuromorphs: https://neuromorphs.net/
+> Welcome to the NEUROMORPHS home for all students, researchers, faculty, developers, entrepreneurs and all interested in the field of neuromorphic engineering and computing!
+We are providing a collection of IT services to promote the growth of our community:
+<br>- https://login.neuromorphs.net: convenient common log-in single-sign-on portal for all neuromorphs.net services.
+<br>- https://lists.neuromorphs.net: mailing list server for general announcement lists, workshops, and focused groups.
+<br>- https://forum.neuromorphs.net: a user friendly forum service for the community at large to share general news and results, make announcements and start discussions on topics related to neuromorphic engineering and computing. Here we can share information in smaller sub-groups and teams, but it is nice to have a place where all information is available to all.
+<br>- https://mm.neuromorphs.net: an open-source messaging service for small, focused groups to coordinate projects (such as Telluride or CapoCaccia work-groups), to get quick replies to questions or post announcements relevant to the specific group (e.g., 2025 CapoCaccia Workshop participants).
+<br>- https://cloud.neuromorphs.net: a cloud-based file and storage server with many additional features such as a shared calendar. There is limited quota available per user, so it is useful mainly for temporary storage and for sharing small snippets of working material (code, reports, papers, pictures, etc.)
+Make yourself at home, start discussions, share news and results, use the services and let us know if you think they can be useful to you and to the community.
