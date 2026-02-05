@@ -8,6 +8,9 @@ It aims to provide a curated collection of resources for researchers and practit
 
 If you find this repository helpful, please consider Stars ⭐ or Sharing 👋.
 
+> [!NOTE]  
+> If you find any missing resources, feel free to submit a **Pull Request** or open an **Issue**. We're thrilled to collaborate with you on this repository.
+
 
 - [Data Resources](#data-resources)
   - [Real-World Datasets](#real-world-datasets)
