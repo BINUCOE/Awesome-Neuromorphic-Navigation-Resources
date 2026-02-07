@@ -12,6 +12,21 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing 👋.
 > If you find any missing resources, feel free to submit a **Pull Request** or open an **Issue**. We're thrilled to collaborate with you on this repository.
 
 
+BibTeX Citation
+
+```bibtex
+@article{zhang2026survey,
+  author = {Zhang, Youdong and He, Xu and Meng, Xiaolin and et al.},
+  title = {A Survey on Neuromorphic Navigation: Implementation Resources, Challenges and Perspectives},
+  journal = {TechRxiv},
+  year = {2026},
+  month = {feb},
+  doi = {10.36227/techrxiv.177040597.75784815/v1},
+  note = {Preprint}
+}
+```
+
+
 - [Data Resources](#data-resources)
   - [Real-World Datasets](#real-world-datasets)
   - [Event Simulators and Simulated Datasets](#event-simulators-and-simulated-datasets)
