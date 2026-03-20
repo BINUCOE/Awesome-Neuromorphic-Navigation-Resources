@@ -48,6 +48,43 @@ BibTeX Citation
   - [Others](#others)
 
 
+## 🧠 Neuromorphic Resource Decision Guide
+
+ 🌳 Decision Tree Flowchart
+
+```mermaid
+graph TD
+    %% 定义样式类别
+    classDef startNode fill:#f9f,stroke:#333,stroke-width:2px;
+    classDef decisionNode fill:#bbf,stroke:#333,stroke-width:2px;
+    classDef hardwareNode fill:#ffb,stroke:#333,stroke-width:1px;
+    classDef softwareNode fill:#bfb,stroke:#333,stroke-width:1px;
+    classDef repoNode fill:#eee,stroke:#333,stroke-width:1px,stroke-dasharray: 5 5;
+
+    %% 主流程起点
+    A([Start: What is your primary goal?]):::startNode --> B{Hardware Deployment?}:::decisionNode
+    A --> C{Algorithm & Simulation?}:::decisionNode
+
+    %% 硬件分支
+    B -- Yes --> D[Which Target Platform?]:::hardwareNode
+    D -- Intel Loihi Series --> H1[(Lava)]:::repoNode
+    D -- SpiNNaker Series --> H2[(sPyNNaker / PyNN)]:::repoNode
+    D -- SynSense Speck/Dynap --> H3[(Samna)]:::repoNode
+    D -- BrainScaleS --> H4[(BrainScaleS OS)]:::repoNode
+
+    %% 软件与算法分支
+    C -- Neuroscience / Bio-plausible --> E[Focus on Local Learning e.g., STDP]:::softwareNode
+    E --> S1[(Brian 2 / NEST / BindsNET)]:::repoNode
+
+    C -- Deep Learning Integration --> F[Preferred Training Method?]:::softwareNode
+    
+    %% 深度学习训练方法分支
+    F -- ANN-to-SNN Conversion --> S2[(SNN Toolbox / SpikingJelly)]:::repoNode
+    F -- Direct Training with Surrogate Gradients --> S3[(snnTorch / Norse / SpikingJelly)]:::repoNode
+    F -- Both / General Purpose --> S4[(SpikingJelly / snnTorch)]:::repoNode
+```
+
+
 ## Data Resources
 
 ### Real-World Datasets
