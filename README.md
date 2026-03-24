@@ -224,6 +224,7 @@ graph TD
 |                  [Darwin](https://link.springer.com/article/10.1007/s11432-015-5511-7)                  | Digital |       Sync        |        No        |     180      |   2048 / 4.19 M    |    0.84    |      N. A.      |                    [DarwinOS](https://ieeexplore.ieee.org/document/9771131)                    |
 |                                                 Darwin2                                                 | Digital |       Sync        |        No        |      55      |    147 k / 10 M    |    ~100    |      N. A.      |                    [DarwinOS](https://ieeexplore.ieee.org/document/9771131)                    |
 |                  [Darwin3](https://academic.oup.com/nsr/article/11/5/nwae102/7631347)                   | Digital |       GALS        |       Yes        |      22      |     2.3 M / —      |   N. A.    |      5.47       |                    [DarwinOS](https://ieeexplore.ieee.org/document/9771131)                    |
+
 _Architecture_. Async: Asynchronous; Sync: Synchronous; GALS: Globally Asynchronous Locally Synchronous.
 
 ## Software Resources
