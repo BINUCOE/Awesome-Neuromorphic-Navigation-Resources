@@ -318,3 +318,8 @@ _Architecture_. Async: Asynchronous; Sync: Synchronous; GALS: Globally Asynchron
 <br>- https://mm.neuromorphs.net (MatterMost): this is an open-source messaging service, similar to Slack, for small, focused groups to coordinate projects (such as Telluride or CapoCaccia work-groups), to get quick replies to questions or post announcements relevant to the specific group (e.g., 2025 CapoCaccia Workshop participants)
 <br>- https://cloud.neuromorphs.net (NextCloud): this is a cloud-based file and storage server with many additional features such as a shared calendar. Given the limited quota available per user, it is useful only for temporary storage and for sharing working material (code, reports, papers, pictures, etc.)
 <br>- https://login.neuromorphs.net (Keykloak): convenient common log-in single-sign-on portal for all neuromorphs.net services.
+
+---
+<a href="https://clustrmaps.com/site/1c9rf"  title="ClustrMaps">
+  <img src="//www.clustrmaps.com/map_v2.png?d=ot_0kUx1yX3R1B3YOAfwUyuzVBPsWcz9670kIiWZyW8&cl=ffffff" />
+</a>
