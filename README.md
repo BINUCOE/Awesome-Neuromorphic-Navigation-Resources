@@ -321,5 +321,5 @@ _Architecture_. Async: Asynchronous; Sync: Synchronous; GALS: Globally Asynchron
 
 ---
 <a href="https://clustrmaps.com/site/1c9rf"  title="ClustrMaps">
-  <img src="//www.clustrmaps.com/map_v2.png?d=ot_0kUx1yX3R1B3YOAfwUyuzVBPsWcz9670kIiWZyW8&cl=ffffff" />
+  <img src="https://www.clustrmaps.com/map_v2.png?d=ot_0kUx1yX3R1B3YOAfwUyuzVBPsWcz9670kIiWZyW8&cl=ffffff" />
 </a>
