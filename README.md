@@ -322,6 +322,4 @@ _Architecture_. Async: Asynchronous; Sync: Synchronous; GALS: Globally Asynchron
 <br>- https://login.neuromorphs.net (Keykloak): convenient common log-in single-sign-on portal for all neuromorphs.net services.
 
 ---
-<a href="https://clustrmaps.com/site/1c9rf"  title="ClustrMaps">
-  <img src="https://www.clustrmaps.com/map_v2.png?d=ot_0kUx1yX3R1B3YOAfwUyuzVBPsWcz9670kIiWZyW8&cl=ffffff" />
-</a>
+<a href="https://mapmyvisitors.com/web/1c7mv"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=lEvpq6tbOZ1Vp7wbIrn4foDRNxUuFL3VC6436hJYAU8&cl=ffffff" /></a>
