@@ -16,13 +16,10 @@ BibTeX Citation
 
 ```bibtex
 @article{zhang2026survey,
-  author = {Zhang, Youdong and He, Xu and Meng, Xiaolin and et al.},
-  title = {A Survey on Neuromorphic Navigation: Implementation Resources, Challenges and Perspectives},
-  journal = {TechRxiv},
-  year = {2026},
-  month = {feb},
-  doi = {10.36227/techrxiv.177040597.75784815/v1},
-  note = {Preprint}
+  author={Zhang, Youdong and He, Xu and Meng, Xiaolin and An, Xiangdong and Mo, Lingfei and Yin, Wenxuan and Yu, Fangwen},
+  journal={IEEE Sensors Journal}, 
+  title={A Survey on Neuromorphic Navigation: Implementation Resources, Challenges and Perspectives}, 
+  year={2026}
 }
 ```
 
