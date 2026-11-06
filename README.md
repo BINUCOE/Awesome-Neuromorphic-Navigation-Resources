@@ -28,13 +28,10 @@ BibTeX Citation
 
 ```bibtex
 @article{zhang2026survey,
-  author = {Zhang, Youdong and He, Xu and Meng, Xiaolin and et al.},
-  title = {A Survey on Neuromorphic Navigation: Implementation Resources, Challenges and Perspectives},
-  journal = {TechRxiv},
-  year = {2026},
-  month = {feb},
-  doi = {10.36227/techrxiv.177040597.75784815/v1},
-  note = {Preprint}
+  author={Zhang, Youdong and He, Xu and Meng, Xiaolin and An, Xiangdong and Mo, Lingfei and Yin, Wenxuan and Yu, Fangwen},
+  journal={IEEE Sensors Journal}, 
+  title={A Survey on Neuromorphic Navigation: Implementation Resources, Challenges and Perspectives}, 
+  year={2026}
 }
 ```
 
@@ -334,6 +331,4 @@ _Architecture_. Async: Asynchronous; Sync: Synchronous; GALS: Globally Asynchron
 <br>- https://login.neuromorphs.net (Keykloak): convenient common log-in single-sign-on portal for all neuromorphs.net services.
 
 ---
-<a href="https://clustrmaps.com/site/1c9rf"  title="ClustrMaps">
-  <img src="https://www.clustrmaps.com/map_v2.png?d=ot_0kUx1yX3R1B3YOAfwUyuzVBPsWcz9670kIiWZyW8&cl=ffffff" />
-</a>
+<a href="https://mapmyvisitors.com/web/1c7mv"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=lEvpq6tbOZ1Vp7wbIrn4foDRNxUuFL3VC6436hJYAU8&cl=ffffff" /></a>
