@@ -7,6 +7,7 @@
 
 <!-- Research Topics -->
 ![Neuromorphic Computing](https://img.shields.io/badge/🧠-Neuromorphic%20Computing-7047A3?style=flat)
+![Robot Navigation](https://img.shields.io/badge/🧭-Robot%20Navigation-168C91?style=flat)
 ![Robotics](https://img.shields.io/badge/🤖-Robotics-1677C8?style=flat)
 ![Research Resources](https://img.shields.io/badge/📝-Research%20Resources-239B70?style=flat)
 ![Paper Collection](https://img.shields.io/badge/📚-Paper%20Collection-D58B32?style=flat)
