@@ -1,5 +1,17 @@
 # Awesome-Neuromorphic-Navigation-Resources [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+<!-- Repository Stats -->
+[![GitHub Stars](https://img.shields.io/github/stars/BINUCOE/Awesome-Neuromorphic-Navigation-Resources?style=flat&logo=github&label=Stars)](https://github.com/BINUCOE/Awesome-Neuromorphic-Navigation-Resources/stargazers)
+[![Views](https://hits.sh/github.com/BINUCOE/Awesome-Neuromorphic-Navigation-Resources.svg?style=flat&label=Views&color=blue)](https://hits.sh/github.com/BINUCOE/Awesome-Neuromorphic-Navigation-Resources/)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/cs5KMhkqs)
+
+<!-- Research Topics -->
+![Neuromorphic Computing](https://img.shields.io/badge/🧠-Neuromorphic%20Computing-7047A3?style=flat)
+![Robotics](https://img.shields.io/badge/🤖-Robotics-1677C8?style=flat)
+![Research Resources](https://img.shields.io/badge/📝-Research%20Resources-239B70?style=flat)
+![Paper Collection](https://img.shields.io/badge/📚-Paper%20Collection-D58B32?style=flat)
+![Open Research Community](https://img.shields.io/badge/🌐-Open%20Research%20Community-168C91?style=flat)
+
 ![Neuromorphic Navigation](./image/header.png)
 
 This is a repository of **Neuromorphic Navigation** survey from **Southeast University, Nanjing, China**. 
